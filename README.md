@@ -3,6 +3,7 @@
 A quick Google Apps script that gathers messages submitted by a Google Form and emails the past week's messages to a specified email.
 
 <b>Form/Sheet Structure</b>
+<br>
 The Google Form, as is, should contain 2 questions similar to this:
 <ol>
   <li>What is your full name?</li>
